@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Getting Started](README.md)
+* [Untitled](untitled.md)
 
 ## Documentation
 
@@ -13,5 +14,5 @@
 
 ## Shopping
 
-* [Untitled](shopping/untitled.md)
+* [Get Started](shopping/get-started.md)
 

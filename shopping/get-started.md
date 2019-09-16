@@ -1,16 +1,16 @@
-# Getting Started
+# Get Started
 
-{% hint style="info" %}
-These docs are still being worked on. Some parts may be unfinished
-{% endhint %}
-
-## Get started
+## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
 ```
 $ give me super-powers
 ```
+
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
 
 Once you're strong enough, save the world:
 
