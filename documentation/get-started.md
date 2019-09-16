@@ -1,10 +1,10 @@
-# Getting Started
+# Get Started
 
 {% hint style="info" %}
- These docs are still being worked on. Some parts may be unfinished
+ OpenSourceTag is currently in a beta release. Please file an issue if you run into any bugs!
 {% endhint %}
 
-## Get started
+## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
