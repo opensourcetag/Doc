@@ -1,23 +1,18 @@
 # Get Started
 
 {% hint style="info" %}
- OpenSourceTag is currently in a beta release. Please file an issue if you run into any bugs!
+ OpenSourceTag is currently in a beta state. Please join the discussion to help define the standard
 {% endhint %}
 
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
+The Open Source Tag system is meant to simplify every aspect of using \#hashtags on your preferred social platforms.
 
 ```
-$ give me super-powers
+First step is to gain access by adding #OpenHashtag
+Second step is to enter your location by adding #Country
+Third step is to exacting you location by adding #City
 ```
 
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+The above  steps is actually the most important and fewest steps to start take advantage over your Social media post and expand you reach and reach out to a bigger audience.
 
 
 
